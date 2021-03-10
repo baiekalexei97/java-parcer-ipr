@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="File splitter 1:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/File_splitter_1_jar</output-path>
+    <root id="archive" name="File splitter 1.jar">
+      <element id="module-output" name="File splitter 1" />
+    </root>
+  </artifact>
+</component>

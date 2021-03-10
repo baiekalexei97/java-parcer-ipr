@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="File Parcer 1:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Parcer_1</output-path>
+    <root id="archive" name="parcer.jar">
+      <element id="module-output" name="File Parcer 1" />
+    </root>
+  </artifact>
+</component>
